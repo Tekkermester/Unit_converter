@@ -155,7 +155,7 @@ def reset():
     t_to.set('Select')
 
 def help():
-    messagebox.showerror('Help', "          Help:\n _link_")
+    messagebox.showerror('Help', "          Help:\n https://github.com/Tekkermester/Unit_converter")
 
 #------------------------------------------------
 window = Tk()
